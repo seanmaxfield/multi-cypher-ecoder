@@ -1,2 +1,2 @@
-# multi-cypher-ecoder
+# multi-cipher-ecoder
 This python program can ecode any string at any length by processing it through four different cyphers at a specified order and with a specified key. The string will pass through a shift cipher, rail fence cipher, circumference cipher, and modulus cypher. The randomized key that is given determines the number of shifts and the complexity in the shift cipher. WARNING, DO NOT INPUT LARGE STRINGS, IF YOU DO THE END RESULT WILL BE PAGES AND PAGES OF NUMBERS AND LETTERS TOTALLING UP TO MEGABYTES. YOUR COMMAND PROMPT WILL TAKE A WHILE TO HANDLE THE ENCODED STRING IF YOU ARE INPUTING PARAGRAPH MESSAGES.
